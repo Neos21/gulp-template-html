@@ -1,6 +1,6 @@
 {
-  "name": "gulp-template-html",
-  "version": "0.2.0",
+  "name": "@neos21/gulp-template-html",
+  "version": "1.0.0",
   "description": "Generate static HTML files from templates and content files",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:grit96/gulp-template-html"
+    "url": "git+https://github.com/Neos21GitHub/gulp-template-html.git"
   },
   "author": "Geraint White <mail@geraintwhite.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/grit96/gulp-template-html/issues"
+    "url": "https://github.com/Neos21GitHub/gulp-template-html/issues"
   },
-  "homepage": "https://github.com/grit96/gulp-template-html",
+  "homepage": "https://github.com/Neos21GitHub/gulp-template-html#readme",
   "dependencies": {
     "through2": "~2.0.1",
-    "template-html": "0.3.1",
+    "@neos21/template-html": "~1.0.0",
     "gulp-util": "~3.0.7"
   },
   "devDependencies": {
