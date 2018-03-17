@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/@neos21/gulp-template-html.svg)](https://www.npmjs.com/package/@neos21/gulp-template-html)
 
-Gulp plugin uses [@neos21/template-html](https://github.com/Neos21GitHub/template-html) to generate static HTML files from templates and content files.
+Gulp plugin uses [@neos21/template-html](https://github.com/Neos21/template-html) to generate static HTML files from templates and content files.
 
 
 ## Installation
@@ -52,7 +52,7 @@ See the [LICENSE](./LICENSE) file.
 
 [Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
 
-- [GitHub - gulp-template-html](https://github.com/Neos21GitHub/gulp-template-html)
+- [GitHub - gulp-template-html](https://github.com/Neos21/gulp-template-html)
 - [npm - @neos21/gulp-template-html](https://www.npmjs.com/package/@neos21/gulp-template-html)
 
 
@@ -63,4 +63,4 @@ See the [LICENSE](./LICENSE) file.
 - [Murga](http://neos21.hatenablog.jp/)
 - [El Mylar](http://neos21.hateblo.jp/)
 - [Bit-Archer](http://bit-archer.hatenablog.com/)
-- [GitHub - Neos21GitHub](https://github.com/Neos21GitHub/)
+- [GitHub - Neos21](https://github.com/Neos21/)
