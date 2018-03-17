@@ -1,6 +1,6 @@
 {
   "name": "@neos21/gulp-template-html",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate static HTML files from templates and content files",
   "main": "index.js",
   "scripts": {
@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/Neos21/gulp-template-html#readme",
   "dependencies": {
-    "through2": "~2.0.1",
-    "@neos21/template-html": "~1.0.0",
-    "gulp-util": "~3.0.7"
+    "through2": "2.0.3",
+    "@neos21/template-html": "1.0.4",
+    "gulp-util": "3.0.8"
   },
   "devDependencies": {
-    "gulp": "~3.9.1",
-    "tape": "^4.5.1"
+    "gulp": "3.9.1",
+    "tape": "4.9.0"
   }
 }
