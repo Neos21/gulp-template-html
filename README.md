@@ -45,12 +45,13 @@ See the [examples](./examples) directory for an example of how to generate stati
 
 
 ## License
+
 See the [LICENSE](./LICENSE) file.
 
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
+[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
 
 - [GitHub - gulp-template-html](https://github.com/Neos21/gulp-template-html)
 - [npm - @neos21/gulp-template-html](https://www.npmjs.com/package/@neos21/gulp-template-html)
