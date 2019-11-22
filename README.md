@@ -1,4 +1,4 @@
-# gulp-template-html
+# gulp-template-html : @neos21/gulp-template-html
 
 [![NPM Version](https://img.shields.io/npm/v/@neos21/gulp-template-html.svg)](https://www.npmjs.com/package/@neos21/gulp-template-html)
 
