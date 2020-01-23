@@ -51,7 +51,7 @@ See the [LICENSE](./LICENSE) file.
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - gulp-template-html](https://github.com/Neos21/gulp-template-html)
 - [npm - @neos21/gulp-template-html](https://www.npmjs.com/package/@neos21/gulp-template-html)
