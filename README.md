@@ -1,6 +1,6 @@
 # gulp-template-html : @neos21/gulp-template-html
 
-[![NPM Version](https://img.shields.io/npm/v/@neos21/gulp-template-html.svg)](https://www.npmjs.com/package/@neos21/gulp-template-html)
+[![NPM Version](https://img.shields.io/npm/v/@neos21/gulp-template-html.svg)](https://www.npmjs.com/package/@neos21/gulp-template-html) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/gulp-template-html?label=github)](https://github.com/Neos21/gulp-template-html/packages/328042)
 
 Gulp plugin uses [@neos21/template-html](https://github.com/Neos21/template-html) to generate static HTML files from templates and content files.
 
