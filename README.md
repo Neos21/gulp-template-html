@@ -1,4 +1,4 @@
-# gulp-template-html : @neos21/gulp-template-html
+# @neos21/gulp-template-html : gulp-template-html
 
 [![NPM Version](https://img.shields.io/npm/v/@neos21/gulp-template-html.svg)](https://www.npmjs.com/package/@neos21/gulp-template-html) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/gulp-template-html?label=github)](https://github.com/Neos21/gulp-template-html/packages/328042)
 
@@ -49,19 +49,9 @@ See the [examples](./examples) directory for an example of how to generate stati
 See the [LICENSE](./LICENSE) file.
 
 
-## Author
-
-[Neo](http://neo.s21.xrea.com/)
-
-- [GitHub - gulp-template-html](https://github.com/Neos21/gulp-template-html)
-- [npm - @neos21/gulp-template-html](https://www.npmjs.com/package/@neos21/gulp-template-html)
-
-
 ## Links
 
-- [Neo's World](http://neo.s21.xrea.com/)
-- [Corredor](https://neos21.hatenablog.com/)
-- [Murga](https://neos21.hatenablog.jp/)
-- [El Mylar](https://neos21.hateblo.jp/)
-- [Neo's GitHub Pages](https://neos21.github.io/)
+- [Neo's World](https://neos21.net/)
 - [GitHub - Neos21](https://github.com/Neos21/)
+- [GitHub - gulp-template-html](https://github.com/Neos21/gulp-template-html)
+- [npm - @neos21/gulp-template-html](https://www.npmjs.com/package/@neos21/gulp-template-html)
